@@ -15,7 +15,7 @@
 .user-profile-dropdown,
 .user-level-dropdown,
 .nav-left {
-    background: hsla(77, 9, 78, 0.3%);
+    background: hsl(269, 45%, 9%);
 }
 .right-meta .header-panel-button.selected,
 .community .community__playlist--desktop,
@@ -23,14 +23,14 @@
 #playlist-menu .menu .row.selected,
 #room-settings .general-settings button.off,
 #room-settings .general-settings .option.enabled button.on {
-    background: linear-gradient(#e26a8b, #00c6ff);
-    box-shadow: inset 0 0 1px 1px hsl(270, 11%, 20%);
+    background: linear-gradient(#5969a0, #a738a3);
+    box-shadow: inset 0 0 1px 1px hsl(270, 31%, 48%);
 }
 .community .community__top,
 #header-panel-bar.right-meta,
 .bottom__playback-meta,
 .bottom__playback-controls {
-    background: linear-gradient(hsl(345, 56%, 64%), hsl(188, 83%, 47%, 0.98));
+    background: linear-gradient(hsl(234, 25%, 50%), hsl(298, 46%, 44%));
 }
 .left-side-wrapper {
     background-position-x: center !important;
