@@ -1,0 +1,121 @@
+/* ajusta a foto, tira a borda cinza e deixa maior */
+#chat .badge-box i, .right-side-wrapper #chat .badge-box .icon-arrow-down {
+    transform: scale(1) !important;}
+
+/* Burkyst */
+[data-cid^="20574971-"] .badge-box .bdg,
+#user-rollover.id-20574971 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/OQbJwRG.gif");
+}
+/* fløwer */
+[data-cid^="22517314-"] .badge-box .bdg,
+#user-rollover.id-22517314 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.giphy.com/media/3og0ICZg7alVr1bwXu/giphy.gif");
+}
+/* Lecin */
+[data-cid^="45697975-"] .badge-box .bdg,
+#user-rollover.id-45697975 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/605043899156791307/609422171068170260/Yugioh_3.gif");
+}
+/* Denovuan */
+[data-cid^="3432252-"] .badge-box .bdg,
+#user-rollover.id-3432252 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("http://giphygifs.s3.amazonaws.com/media/REgFJcnd2n21O/giphy.gif");
+}
+/* Noir */
+[data-cid^="27929333-"] .badge-box .bdg,
+#user-rollover.id-27929333 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://data.whicdn.com/images/296713888/original.gif");
+}
+/* Mumm-Rá */
+[data-cid^="3430994-"] .badge-box .bdg,
+#user-rollover.id-3430994 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/573681511925153792/611662483912130580/received_835889273432590.gif");
+}
+/* crow66 */
+[data-cid^="37770797-"] .badge-box .bdg,
+#user-rollover.id-37770797 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.giphy.com/media/9SJasD8sxYvyUz9onS/giphy.gif");
+}
+/* -Dashing Love */
+[data-cid^="4925119-"] .badge-box .bdg,
+#user-rollover.id-4925119 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/660953082355515452/660953562704117782/IMG-20191229-WA0073.jpg");
+}
+/* Axzy */
+[data-cid^="15593328-"] .badge-box .bdg,
+#user-rollover.id-15593328 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.discordapp.net/attachments/637696239089090582/643138301938761738/badge_plug.dj.gif");
+}
+/* Fake */
+[data-cid^="33479737-"] .badge-box .bdg,
+#user-rollover.id-33479737 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/605845129617735711/645265070787526666/Screenshot_248.png");
+}
+/* GlabGlob */
+[data-cid^="31139495-"] .badge-box .bdg,
+#user-rollover.id-31139495 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/645262986164043816/645279754295050250/tenor.gif");
+}
+/* Draquinho*/
+[data-cid^="46444508-"] .badge-box .bdg,
+#user-rollover.id-37756844 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.discordapp.net/attachments/641482984800780290/662297338223525898/ezgif.com-resize.gif");
+}
+/*stαrswithnαmes*/
+[data-cid^="48536556-"] .badge-box .bdg,
+#user-rollover.id-48536556 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://i.imgur.com/8CHFT30.jpg");
+}
