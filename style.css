@@ -142,8 +142,26 @@
     .friends .jspContainer {
         height: 730px!important;
     }
+    
+@media (min-width: 576px)
+     .community .community__name {
+        max-width: 540px;
+    }
+}
 }
 
+.community .community__name {
+    font-size: 18px;
+    height: 100%;
+    padding-top: 0;
+    color: #fbf9f9eb;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+    overflow: hidden;
+    max-width: 179px;
+    vertical-align: middle;
+}
 #woot-rs, #grab-rs, #meh-rs {
     top: -1px;
     border-radius: 10px 10px 0 0;
