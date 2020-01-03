@@ -32,6 +32,7 @@
 .bottom__playback-meta,
 .bottom__playback-controls {
     background: linear-gradient(hsl(234, 25%, 50%), hsl(298, 46%, 44%));
+                { opacity : 0.5 }
 }
 .left-side-wrapper {
     background-position-x: center !important;
