@@ -179,7 +179,6 @@
          transform: rotate(360deg);
        }
 }
-}
 
 .community .right-side-wrapper .community__right-bar #chat #chat-messages .cm.welcome .text {
     font-family: 'Open Sans';
@@ -204,6 +203,7 @@
     max-width: 179px;
     vertical-align: middle;
   }
+
 }
 #woot-rs, #grab-rs, #meh-rs {
     top: -1px;
