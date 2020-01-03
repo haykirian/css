@@ -63,6 +63,7 @@
     animation: spin 2s linear infinite;
     width: 20px;
     height: 20px;
+    }
 }
 .icon-playlist {
     background-position: 0 -35px;
