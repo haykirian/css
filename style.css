@@ -165,6 +165,10 @@
     align-items: center;
     -webkit-align-items: center;
     }
+    
+    .community__playlist--desktop[data-song] .icon-playlist {
+    color: #00ffe7ad;
+    }
 }
      .icon-playlist, .icon-playlist.active {
          webkit-animation: spin 2s linear infinite;
@@ -201,6 +205,7 @@
     overflow: hidden;
     max-width: 179px;
     vertical-align: middle;
+  }
 }
 #woot-rs, #grab-rs, #meh-rs {
     top: -1px;
