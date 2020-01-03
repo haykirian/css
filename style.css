@@ -153,12 +153,14 @@
     .friends .jspContainer {
         height: 730px!important;
     }
+}
     
 @media (min-width: 576px) {
      .community .community__name {
         max-width: 540px;
     }
-    
+}
+
 @media (min-width: 992px) {
      .btn-no-dj-primary.btn-no-dj-secondary__bottom, .btn-no-dj-secondary.btn-no-dj-secondary__bottom {
     padding-right: 20px;
@@ -171,6 +173,14 @@
     align-items: center;
     -webkit-align-items: center;
     }
+}
+     .icon-playlist, .icon-playlist.active {
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+    width: 20px;
+    height: 20px;
+    }
+
 }
 }
 
