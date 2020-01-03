@@ -45,11 +45,8 @@
 .community .left-side-wrapper .community__bottom .community__playlist--desktop .icon-playlist, .community .right-side-wrapper .community__right-bar #chat #chat-messages .cm .from.you .un, .user-level-dropdown .list-unstyled .user-profile-dropdown__item:hover > i, .user-level-dropdown .list-unstyled .user-profile-dropdown__item:hover > span, .user-profile-dropdown .list-unstyled .user-profile-dropdown__item:hover > i, .user-profile-dropdown .list-unstyled .user-profile-dropdown__item:hover > span {
     color: rgb(227, 173, 22);
 }
-.community__playlist--desktop[data-song] .icon-playlist {
-    color: #ff2aab;
-}
+
 .icon-playlist, .icon-playlist.active {
-    -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
     width: 20px;
     height: 20px;
