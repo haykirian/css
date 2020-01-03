@@ -42,6 +42,26 @@
     max-height: 920px !important;
     background-image: url(https://cdn.radiant.dj/rcs/bg/12.png) !important;
 }
+.community .right-side-wrapper .community__right-bar #chat #chat-messages .cm.welcome .text {
+    font-family: 'Open Sans';
+    font-size: 1.2em;
+    border: 1px dashed rgba(145,71,255,.8);
+    padding: 10px;
+    color: rgba(145,71,255,.8);
+    text-align: left;
+}
+.community .community__name {
+    font-size: 18px;
+    height: 100%;
+    padding-top: 0;
+    color: #fbf9f9eb;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+    overflow: hidden;
+    max-width: 179px;
+    vertical-align: middle;   
+}
 
 @media (min-width: 576px) {
     .community__right-bar,
@@ -177,32 +197,7 @@
  @keyframes spin {
        100% {
          transform: rotate(360deg);
-       }
-}
-
-.community .right-side-wrapper .community__right-bar #chat #chat-messages .cm.welcome .text {
-    font-family: 'Open Sans';
-    font-size: 1.2em;
-    border: 1px dashed rgba(145,71,255,.8);
-    padding: 10px;
-    color: rgba(145,71,255,.8);
-    text-align: left;
-    }
-
-}
-
-.community .community__name {
-    font-size: 18px;
-    height: 100%;
-    padding-top: 0;
-    color: #fbf9f9eb;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    display: inline-block;
-    overflow: hidden;
-    max-width: 179px;
-    vertical-align: middle;
-  }
+     }
 
 }
 #woot-rs, #grab-rs, #meh-rs {
