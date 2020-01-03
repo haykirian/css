@@ -42,6 +42,9 @@
     max-height: 920px !important;
     background-image: url(https://cdn.radiant.dj/rcs/bg/12.png) !important;
 }
+.community .left-side-wrapper .community__bottom .community__playlist--desktop .icon-playlist, .community .right-side-wrapper .community__right-bar #chat #chat-messages .cm .from.you .un, .user-level-dropdown .list-unstyled .user-profile-dropdown__item:hover>i, .user-level-dropdown .list-unstyled .user-profile-dropdown__item:hover>span, .user-profile-dropdown .list-unstyled .user-profile-dropdown__item:hover>i, .user-profile-dropdown .list-unstyled .user-profile-dropdown__item:hover>span {
+    color: #d6d267;
+}
 @media (min-width: 576px) {
     .community__right-bar,
     #user-lists,
