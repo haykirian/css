@@ -48,25 +48,12 @@
 .community__playlist--desktop[data-song] .icon-playlist {
     color: #ff2aab;
 }
-.community__playlist--desktop .icon-playlist {
-    color: #aaa;
-    font-size: 30px;
-    margin-right: 10px;
-    vertical-align: middle;
-}
-.icon-playlist {
-    width: 30px;
-    height: 30px;
-}
 .icon-playlist, .icon-playlist.active {
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
     width: 20px;
     height: 20px;
     }
-}
-.icon-playlist {
-    background-position: 0 -35px;
 }
 
 @media (min-width: 576px) {
