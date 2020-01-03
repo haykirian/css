@@ -174,7 +174,12 @@
          webkit-animation: spin 1s linear infinite;
                 animation: spin 1s linear infinite;
               }
-     }
+ @keyframes spin {
+       100% {
+         transform: rotate(360deg);
+       }
+}
+}
 
 .community .right-side-wrapper .community__right-bar #chat #chat-messages .cm.welcome .text {
     font-family: 'Open Sans';
