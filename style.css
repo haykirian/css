@@ -174,10 +174,6 @@
          webkit-animation: spin 1s linear infinite;
                 animation: spin 1s linear infinite;
               }
-@-moz-keyframes spin {
-       100% {
-        -moz-transform: rotate(360deg);
-      }
      }
      @-webkit-keyframes spin {
       100% {
@@ -190,6 +186,15 @@
          transform: rotate(360deg);
        }
      }
+
+.community .right-side-wrapper .community__right-bar #chat #chat-messages .cm.welcome .text {
+    font-family: 'Open Sans';
+    font-size: 1.2em;
+    border: 1px dashed rgba(145,71,255,.8);
+    padding: 10px;
+    color: rgba(145,71,255,.8);
+    text-align: left;
+    }
 
 }
 
