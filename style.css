@@ -194,6 +194,10 @@
          webkit-animation: spin 1s linear infinite;
                 animation: spin 1s linear infinite;
               }
+@keyframes spin {
+       100% {
+         transform: rotate(360deg);
+     }
 
 }
 #woot-rs, #grab-rs, #meh-rs {
