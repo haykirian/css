@@ -174,7 +174,7 @@
     -webkit-align-items: center;
     }
 }
-     .icon-playlist, .icon-playlist.active {
+     .icon-playlist, .icon-playlist.active, .btn-no-dj-primary.btn-no-dj-secondary__bottom, .btn-no-dj-secondary.btn-no-dj-secondary__bottom  {
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
     width: 20px;
