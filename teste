@@ -2,7 +2,7 @@
 	"room": "Move It! - Brasil",
 	"author": "Shadow Slayer",
 	"icon": null,
-	"css": "https://raw.githack.com/haykirian/css/master/style.css",
+	"css": "https://rawcdn.githack.com/haykirian/css/6cc5fdd9c0a2570d58ea31465cd2e9b1b0925e47/style.css",
 	"rules": {
 		"allowAutorespond": true,
 		"allowAutowoot": true,
