@@ -186,9 +186,9 @@
     -webkit-align-items: center;
     }
     
-    .community__playlist--desktop[data-song] .icon-playlist {
+   .community .left-side-wrapper .community__bottom .community__playlist--desktop .icon-playlist, .community .right-side-wrapper .community__right-bar #chat #chat-messages .cm .from.you .un, .user-level-dropdown .list-unstyled .user-profile-dropdown__item:hover>i, .user-level-dropdown .list-unstyled .user-profile-dropdown__item:hover>span, .user-profile-dropdown .list-unstyled .user-profile-dropdown__item:hover>i, .user-profile-dropdown .list-unstyled .user-profile-dropdown__item:hover>span {
     color: #00c6ffe6;
-    }
+  }
 }
 
 .icon-playlist, .icon-playlist.active {
