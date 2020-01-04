@@ -190,18 +190,12 @@
     color: #00c6ffe6;
     }
 }
-     .icon-playlist {
-    width: 30px;
-    height: 30px;
-    }
+
 .icon-playlist, .icon-playlist.active {
-    -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+    -webkit-animation: rotating 2s linear infinite;
+    animation: rotating 2s linear infinite;
     width: 20px;
     height: 20px;
-  }
-.icon-playlist {
-    background-position: 0 -35px;
   }
 
 @-webkit-keyframes rotating {
