@@ -2,7 +2,7 @@
 	"room": "Move It! - Brasil",
 	"author": "Shadow Slayer",
 	"icon": null,
-	"css": "https://moveitbrasil.tk/wp-content/themes/hashone/_new-theme/style.css",
+	"css": "https://raw.githack.com/haykirian/css/master/banana",
 	"rules": {
 		"allowAutorespond": true,
 		"allowAutowoot": true,
